@@ -1,0 +1,16 @@
+{
+"tasks": [
+{
+"id": 1, 
+"title": "create off-canvas sidebar",
+"content": "lorem ipsum dolor",
+"complete": false
+},
+{
+"id": 2, 
+"title": "compare ace vs monaco vs codemirror editors",
+"content": "find out which code editor is the best to integrate",
+"complete": true
+}
+]
+}
